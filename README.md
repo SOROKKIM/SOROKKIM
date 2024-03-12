@@ -69,7 +69,7 @@
   </a>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sorokkim&repo=github-readme-stats)](https://github.com/SOROKKIM/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SOROKKIM&repo=github-readme-stats)](https://github.com/SOROKKIM/github-readme-stats)
 
 <!--
 **SOROKKIM/SOROKKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
