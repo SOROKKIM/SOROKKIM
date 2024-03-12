@@ -74,7 +74,8 @@
   </a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOROKKIM)](https://github.com/SOROKKIM/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SOROKKIM&show_icons=true)  
+
 
 <!--
 **SOROKKIM/SOROKKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
