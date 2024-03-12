@@ -68,8 +68,8 @@
       src="https://img.shields.io/badge/ksl7593@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SOROKKIM&repo=github-readme-stats)](https://github.com/SOROKKIM/github-readme-stats)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SOROKKIM&repo=github-readme-stats)](https://github.com/SOROKKIM/github-readme-stats)
 
 <!--
 **SOROKKIM/SOROKKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
